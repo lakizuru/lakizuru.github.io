@@ -1045,6 +1045,7 @@ section .container {
 
 .banner-text {
   animation: slide 15s linear infinite; /* Animation properties */
+  white-space: nowrap; /* Prevent text from wrapping */
 }
 
 @keyframes slide {
