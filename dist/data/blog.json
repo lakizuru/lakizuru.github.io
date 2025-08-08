@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "title": "Microcontrollers for IoT",
+      "excerpt": "In this article, I'll be explaining the mostly widely used microcontrollers for IoT and which suits your requirements.",
+      "url": "https://lakizuru.medium.com/microcontrollers-for-iot-d566fe7bf349",
+      "date": "2023",
+      "readTime": "8 min read",
+      "type": "article",
+      "platform": "Medium",
+      "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "IPv6 - Computer Networks Support Series",
+      "excerpt": "This is the 4th video of Computer Networks support video series done by me for SLIIT FOSS Community, covering IPv6 fundamentals and implementation.",
+      "url": "https://www.youtube.com/watch?v=ON1ilXEFbvw&t=6s",
+      "date": "2023",
+      "readTime": "45 min",
+      "type": "video",
+      "platform": "YouTube",
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "Phonebook of the Internet: DNS in Simple Words!",
+      "excerpt": "This article will answer all of your problems related to internet name resolution and explain how DNS works in simple terms.",
+      "url": "https://medium.com/sliit-foss/naming-the-computers-on-the-internet-dns-in-simple-words-1c74140e2b60",
+      "date": "2022",
+      "readTime": "6 min read",
+      "type": "article",
+      "platform": "Medium",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "How Rust can be used to implement a better Operating System - Part 2",
+      "excerpt": "How a Modern Language like Rust can be used to Implement more Secure, Reliable, High-Performance Operating Systems - Part 2",
+      "url": "https://lakizuru.medium.com/how-rust-can-be-used-to-implement-a-better-operating-system-part-2-5b47fc336747",
+      "date": "2022",
+      "readTime": "10 min read",
+      "type": "article",
+      "platform": "Medium",
+      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "How Rust can be used to implement a better Operating System - Part 1",
+      "excerpt": "How a Modern Language like Rust can be used to Implement more Secure, Reliable, High-Performance Operating Systems - Part 1",
+      "url": "https://medium.com/sliit-foss/how-rust-can-be-used-to-implement-a-better-operating-system-fe1d4327156c",
+      "date": "2022",
+      "readTime": "12 min read",
+      "type": "article",
+      "platform": "Medium",
+      "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "IP Addressing for Computer Networks",
+      "excerpt": "This is the 3rd video of Computer Networks support video series covering IP addressing concepts and practical implementation.",
+      "url": "https://www.youtube.com/watch?v=VlXwrLXnwMY&t=1641s",
+      "date": "2022",
+      "readTime": "50 min",
+      "type": "video",
+      "platform": "YouTube",
+      "image": "https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "Fundamentals of Networking",
+      "excerpt": "This is the 2nd video of Computer Networks support video series covering the fundamental concepts of networking.",
+      "url": "https://www.youtube.com/watch?v=E9jxgCZvLjg",
+      "date": "2022",
+      "readTime": "40 min",
+      "type": "video",
+      "platform": "YouTube",
+      "image": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "Introduction to Cisco Packet Tracer",
+      "excerpt": "This is the 1st video of Computer Networks support video series introducing Cisco Packet Tracer for network simulation.",
+      "url": "https://www.youtube.com/watch?v=HGQeP5bz-bE&t=65s",
+      "date": "2022",
+      "readTime": "35 min",
+      "type": "video",
+      "platform": "YouTube",
+      "image": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}
