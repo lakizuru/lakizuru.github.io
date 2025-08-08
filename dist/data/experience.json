@@ -1,0 +1,226 @@
+{
+  "items": [
+    {
+      "type": "work",
+      "title": "DevOps Engineer",
+      "organization": "Sysco LABS Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "period": "May 2024 - Present",
+      "description": "Working for the Commercial Technology (former DCCTDP) division at Sysco, focusing on Kubernetes cluster management, CI/CD automation, cloud infrastructure, and Linux systems administration.",
+      "highlights": [
+        "Managing EKS clusters and associated Helm charts",
+        "Setting up and maintaining CI/CD pipelines using GitHub Actions and Jenkins",
+        "Configuring and managing Linux servers using Terraform and Ansible",
+        "Deploying and managing AWS Cloud infrastructure using Terraform",
+        "Collaborating with development teams to streamline workflows"
+      ]
+    },
+    {
+      "type": "work",
+      "title": "DevOps Engineer",
+      "organization": "iTelaSoft Pvt Ltd",
+      "location": "Mirihana, Sri Lanka",
+      "period": "January 2023 - May 2024",
+      "description": "Working for the DevOps team of iTelaSoft, focusing on CI/CD automation, cloud infrastructure, and Linux systems administration.",
+      "highlights": [
+        "Setting up and maintaining CI/CD pipelines",
+        "Configuring and managing Linux servers",
+        "Deploying and managing AWS Cloud infrastructure",
+        "Automating deployment processes and monitoring systems",
+        "Collaborating with development teams to streamline workflows"
+      ]
+    },
+    {
+      "type": "work",
+      "title": "Associate DevOps Engineer",
+      "organization": "iTelaSoft Pvt Ltd",
+      "location": "Mirihana, Sri Lanka",
+      "period": "March 2022 - December 2022",
+      "description": "Working for the DevOps team of iTelaSoft, focusing on CI/CD automation, cloud infrastructure, and Linux systems administration.",
+      "highlights": [
+        "Setting up and maintaining CI/CD pipelines",
+        "Configuring and managing Linux servers",
+        "Deploying and managing AWS Cloud infrastructure",
+        "Automating deployment processes and monitoring systems",
+        "Collaborating with development teams to streamline workflows"
+      ]
+    },
+    {
+      "type": "work",
+      "title": "IoT Intern",
+      "organization": "iTelaSoft Pvt Ltd",
+      "location": "Mirihana, Sri Lanka",
+      "period": "March 2021 - February 2022",
+      "description": "Worked with the IoT and Telco team, gaining experience in DevOps, Linux administration, IoT development, and cloud technologies.",
+      "highlights": [
+        "Developed CI/CD pipelines for IoT applications",
+        "Configured servers for Dev and QA environments",
+        "Developed electronics, networking, and software for PoCs",
+        "Created Proof of Concepts using AWS services",
+        "Learned IoT protocols and embedded systems development"
+      ]
+    },
+    {
+      "type": "education",
+      "title": "BSc. (Hons) in IT specializing in Computer Systems and Network Engineering",
+      "organization": "Sri Lanka Institute of Information Technology (SLIIT)",
+      "location": "Malabe, Sri Lanka",
+      "period": "2019 - 2023",
+      "description": "Specialized in Computer Systems and Network Engineering with a focus on practical applications and industry-relevant skills.",
+      "highlights": [
+        "Completed with WGPA of 3.72",
+        "Included in Dean's List for Y1S1 and Y3S2",
+        "Graduated with Merit Award and 1st Class Honors",
+        "Specialized in networking, system administration, and software development"
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Primary & Secondary Education",
+      "organization": "Maliyadeva College",
+      "location": "Kurunegala, Sri Lanka",
+      "period": "2005 - 2018",
+      "description": "Completed primary and secondary education with excellent results in both O/L and A/L examinations.",
+      "highlights": [
+        "G.C.E. (O/L): 7As, 1B, 1C",
+        "G.C.E. (A/L): 1A (ICT), 1C (Physics), 1S (Combined Math)",
+        "District Rank: 16 for A/L examination",
+        "Active participation in academic and extracurricular activities"
+      ]
+    },
+    {
+      "type": "certification",
+      "title": "Google Cloud Certified Associate Cloud Engineer",
+      "organization": "Google Cloud",
+      "location": "Online",
+      "period": "July, 2025",
+      "description": "Foundational certification for deploying, managing, and monitoring applications on Google Cloud Platform.",
+      "highlights": [
+        "Experience with Google Cloud core services and IAM",
+        "Knowledge of networking, storage, and compute resource management",
+        "Ability to set up and maintain cloud solutions on GCP"
+      ]
+    },
+    {
+      "type": "certification",
+      "title": "HashiCorp Certified: Terraform Associate (003)",
+      "organization": "HashiCorp",
+      "location": "Online",
+      "period": "May, 2025",
+      "description": "Certification demonstrating proficiency in infrastructure automation and provisioning using Terraform.",
+      "highlights": [
+        "Strong understanding of Terraform workflow and infrastructure as code principles",
+        "Ability to create and manage infrastructure across multiple providers",
+        "Knowledge of state management, modules, and Terraform Cloud"
+      ]
+    },
+    {
+      "type": "certification",
+      "title": "AWS Certified Solutions Architect – Associate (SAA-C03)",
+      "organization": "Amazon Web Services",
+      "location": "Online",
+      "period": "March, 2024",
+      "description": "Industry-recognized certification validating expertise in designing and deploying scalable, highly available, and cost-effective systems on AWS.",
+      "highlights": [
+        "Proficient in AWS architectural best practices",
+        "Experience with designing secure and reliable cloud solutions",
+        "Skilled in optimizing cost and performance for AWS workloads"
+      ]
+    },
+    {
+      "type": "certification",
+      "title": "Red Hat Certified System Administrator (RHCSA)",
+      "organization": "Cybergate Institute",
+      "location": "Malabe, Sri Lanka",
+      "period": "November, 2023",
+      "description": "Comprehensive Linux system administration certification focusing on Red Hat Enterprise Linux.",
+      "highlights": [
+        "Advanced Linux system administration skills",
+        "Red Hat Enterprise Linux expertise",
+        "Preparation for RHCE certification"
+      ]
+    },
+    {
+      "type": "certification",
+      "title": "Microsoft Azure Fundamentals (AZ-900)",
+      "organization": "Microsoft",
+      "location": "Online",
+      "period": "May, 2022",
+      "description": "Foundational certification covering Azure cloud services, pricing, and support.",
+      "highlights": [
+        "Understanding of cloud concepts and Azure services",
+        "Knowledge of Azure pricing and support models",
+        "Foundation for advanced Azure certifications"
+      ]
+    },
+    {
+      "type": "certification",
+      "title": "Cisco IT Essentials",
+      "organization": "Sri Lanka Institute of Information Technology",
+      "location": "Malabe, Sri Lanka",
+      "period": "January, 2019",
+      "description": "Foundational certification covering PC hardware, operating systems, and networking basics.",
+      "highlights": [
+        "Understanding of computer hardware and software",
+        "Basic networking and troubleshooting skills",
+        "Foundation for advanced Cisco certifications"
+      ]
+    },
+    {
+      "type": "volunteer",
+      "title": "Microsoft Learn Student Ambassador (Beta)",
+      "organization": "Microsoft Learn",
+      "location": "Global Program",
+      "period": "Term 2022/23",
+      "description": "Advanced to Beta milestone in the Microsoft Learn Student Ambassador program, promoting Microsoft technologies and organizing educational events.",
+      "highlights": [
+        "Organized promotional and educational sessions",
+        "Advanced to Beta milestone in October 2022",
+        "Community building and technical evangelism",
+        "Mentored fellow students in Microsoft technologies"
+      ]
+    },
+    {
+      "type": "volunteer",
+      "title": "Treasurer",
+      "organization": "SLIIT FOSS Community",
+      "location": "SLIIT, Sri Lanka",
+      "period": "Term 2022/23",
+      "description": "Served as Treasurer and development team member, managing finances and organizing community events.",
+      "highlights": [
+        "Managed financial activities of the community",
+        "Organized community events and workshops",
+        "Conducted study support sessions",
+        "Contributed to SLIIT FOSS blog and development projects"
+      ]
+    },
+    {
+      "type": "volunteer",
+      "title": "Sub-Committee Member",
+      "organization": "SLIIT FOSS Community",
+      "location": "SLIIT, Sri Lanka",
+      "period": "Term 2021/22",
+      "description": "Contributed to community organization and development activities as a sub-committee member.",
+      "highlights": [
+        "Organized community events and activities",
+        "Conducted study support sessions for students",
+        "Contributed to technical content and blog posts",
+        "Participated in open-source development projects"
+      ]
+    },
+    {
+      "type": "volunteer",
+      "title": "Team Leader - Outgoing Global Volunteer",
+      "organization": "AIESEC in SLIIT",
+      "location": "SLIIT, Sri Lanka",
+      "period": "Term 2020/21",
+      "description": "Led a team to promote AIESEC's Outgoing Global Volunteer program across SLIIT faculties.",
+      "highlights": [
+        "Led team promotion activities",
+        "Promoted global volunteer opportunities",
+        "Engaged with Faculty of Computing and Faculty of Business students",
+        "Developed leadership and team management skills"
+      ]
+    }
+  ]
+}

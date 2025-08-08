@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "title": "Cloud Infrastructure Automation",
+      "description": "Automated AWS infrastructure provisioning using Terraform and Ansible, reducing deployment time by 70% and ensuring consistent environments across development, staging, and production.",
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["AWS", "Terraform", "Ansible", "Jenkins", "Docker"],
+      "githubUrl": "https://github.com/lakizuru",
+      "date": "2023",
+      "featured": true
+    },
+    {
+      "title": "CI/CD Pipeline Implementation",
+      "description": "Designed and implemented comprehensive CI/CD pipelines using Jenkins and GitLab CI, improving deployment frequency and reducing failed deployments by 60%.",
+      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Jenkins", "GitLab CI", "Docker", "Kubernetes", "Python"],
+      "date": "2023",
+      "featured": false
+    },
+    {
+      "title": "IoT Monitoring System",
+      "description": "Developed an end-to-end IoT monitoring system with real-time data collection, processing, and visualization using AWS IoT services and custom embedded firmware.",
+      "image": "https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["AWS IoT", "Python", "C++", "MongoDB", "React"],
+      "date": "2022",
+      "featured": true
+    },
+    {
+      "title": "Linux System Monitoring Dashboard",
+      "description": "Created a comprehensive monitoring dashboard for Linux systems with real-time metrics, alerting, and automated remediation capabilities.",
+      "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "Linux", "Grafana", "Prometheus", "Bash"],
+      "githubUrl": "https://github.com/lakizuru",
+      "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "Microservices Architecture Migration",
+      "description": "Led the migration from monolithic to microservices architecture, implementing containerization and orchestration strategies for improved scalability.",
+      "image": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Docker", "Kubernetes", "Node.js", "MongoDB", "NGINX"],
+      "date": "2023",
+      "featured": true
+    },
+    {
+      "title": "Network Security Assessment Tool",
+      "description": "Developed automated network security assessment tools for vulnerability scanning and compliance checking in enterprise environments.",
+      "image": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "Nmap", "Linux", "Bash", "SQL"],
+      "githubUrl": "https://github.com/lakizuru",
+      "date": "2022",
+      "featured": false
+    }
+  ]
+}
