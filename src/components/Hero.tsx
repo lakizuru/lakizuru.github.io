@@ -14,8 +14,19 @@ export function Hero() {
       <div className="container mx-auto px-6">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center min-h-[calc(100vh-5rem)]">
-            {/* Left Column - Text and Buttons (2/3 width) */}
-            <div className="lg:col-span-2 text-center lg:text-left flex flex-col justify-center">
+            {/* Left Column - Profile Image (1/3 width) */}
+            <div className="lg:col-span-1 flex justify-center lg:justify-start items-center">
+              <div className="relative">
+                <img
+                  src="https://media.licdn.com/dms/image/v2/D5603AQHuUfaweR90uQ/profile-displayphoto-shrink_800_800/B56ZNoVk9rHYAc-/0/1732622309316?e=1757548800&v=beta&t=TLS3fd6rL0MKV-4suO9D-N1FUNg_D77TxPoQ_R3iQXw"
+                  alt="Lakisuru Semasinghe"
+                  className="w-56 h-56 md:w-64 md:h-64 lg:w-80 lg:h-80 xl:w-96 xl:h-96 rounded-full shadow-2xl ring-4 ring-white dark:ring-gray-700 object-cover"
+                />
+              </div>
+            </div>
+
+            {/* Right Column - Text and Buttons (2/3 width) */}
+            <div className="lg:col-span-2 text-center lg:text-left flex flex-col justify-center lg:pl-8">
               {/* Main Content */}
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6">
                 <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
@@ -31,7 +42,8 @@ export function Hero() {
 
               <p className="text-lg text-gray-500 dark:text-gray-400 mb-8 max-w-2xl lg:max-w-none mx-auto lg:mx-0">
                 Passionate about cloud technologies, automation, and building scalable systems. 
-                Based in Kurunegala, Sri Lanka 🇱🇰
+                <br />
+                Based in Kurunegala, Sri Lanka
               </p>
 
               {/* CTA Buttons */}
@@ -98,17 +110,6 @@ export function Hero() {
                 >
                   <ArrowDown className="w-6 h-6 text-gray-400" />
                 </button>
-              </div>
-            </div>
-
-            {/* Right Column - Profile Image (1/3 width) */}
-            <div className="lg:col-span-1 flex justify-center lg:justify-end items-center">
-              <div className="relative">
-                <img
-                  src="https://media.licdn.com/dms/image/v2/D5603AQHuUfaweR90uQ/profile-displayphoto-shrink_800_800/B56ZNoVk9rHYAc-/0/1732622309316?e=1757548800&v=beta&t=TLS3fd6rL0MKV-4suO9D-N1FUNg_D77TxPoQ_R3iQXw"
-                  alt="Lakisuru Semasinghe"
-                  className="w-56 h-56 md:w-64 md:h-64 lg:w-80 lg:h-80 xl:w-96 xl:h-96 rounded-full shadow-2xl ring-4 ring-white dark:ring-gray-700 object-cover"
-                />
               </div>
             </div>
           </div>

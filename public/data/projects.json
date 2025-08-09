@@ -1,54 +1,129 @@
 {
   "projects": [
     {
-      "title": "Cloud Infrastructure Automation",
-      "description": "Automated AWS infrastructure provisioning using Terraform and Ansible, reducing deployment time by 70% and ensuring consistent environments across development, staging, and production.",
-      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "technologies": ["AWS", "Terraform", "Ansible", "Jenkins", "Docker"],
-      "githubUrl": "https://github.com/lakizuru",
-      "date": "2023",
+      "title": "FarmMart",
+      "description": "An Android (React Native) application enabling users to publish free advertisements for agricultural products or services, with multi-language support (Sinhala, Tamil, English) and Firebase backend.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=1",
+      "technologies": ["React Native", "JavaScript", "Firebase (Firestore)", "Expo"],
+      "githubUrl": "https://github.com/lakizuru/FarmMart",
+      "date": "2021",
       "featured": true
     },
     {
-      "title": "CI/CD Pipeline Implementation",
-      "description": "Designed and implemented comprehensive CI/CD pipelines using Jenkins and GitLab CI, improving deployment frequency and reducing failed deployments by 60%.",
-      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "technologies": ["Jenkins", "GitLab CI", "Docker", "Kubernetes", "Python"],
-      "date": "2023",
+      "title": "ESProject (Burglar Alarm System)",
+      "description": "Embedded systems project for a basic Burglar Alarm System as part of an undergraduate module.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=2",
+      "technologies": ["C", "Arduino"],
+      "githubUrl": "https://github.com/lakizuru/ESProject",
+      "date": "2021",
+      "featured": true
+    },
+    {
+      "title": "HostelManagementInfoSys",
+      "description": "Desktop application for hostel management, developed during the second academic year of undergraduate studies.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=3",
+      "technologies": ["Java"],
+      "githubUrl": "https://github.com/lakizuru/HostelManagementInfoSys",
+      "date": "2022",
+      "featured": true
+    },
+    {
+      "title": "SLIITInternshipFinder",
+      "description": "A command-line automation tool that scrapes and lists internship opportunities from SLIIT CourseWeb Career Guidance Unit using Selenium and BeautifulSoup.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=4",
+      "technologies": ["Python", "Selenium", "BeautifulSoup4"],
+      "githubUrl": "https://github.com/lakizuru/SLIITInternshipFinder",
+      "date": "2021",
       "featured": false
     },
     {
-      "title": "IoT Monitoring System",
-      "description": "Developed an end-to-end IoT monitoring system with real-time data collection, processing, and visualization using AWS IoT services and custom embedded firmware.",
-      "image": "https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "technologies": ["AWS IoT", "Python", "C++", "MongoDB", "React"],
-      "date": "2022",
-      "featured": true
+      "title": "pdf-overlay",
+      "description": "Python script to remove white backgrounds from PDF pages and overlay them onto another PDF, optimizing output size while retaining image quality.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=5",
+      "technologies": ["Python", "PDF processing"],
+      "githubUrl": "https://github.com/lakizuru/pdf-overlay",
+      "date": "2024",
+      "featured": false
     },
     {
-      "title": "Linux System Monitoring Dashboard",
-      "description": "Created a comprehensive monitoring dashboard for Linux systems with real-time metrics, alerting, and automated remediation capabilities.",
-      "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "technologies": ["Python", "Linux", "Grafana", "Prometheus", "Bash"],
-      "githubUrl": "https://github.com/lakizuru",
+      "title": "lakizuru.github.io",
+      "description": "Personal portfolio website showcasing skills, projects, and profile details.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=6",
+      "technologies": ["TypeScript", "Web"],
+      "githubUrl": "https://github.com/lakizuru/lakizuru.github.io",
+      "date": "2025",
+      "featured": false
+    },
+    {
+      "title": "Lavatomate (Lavatory Occupancy Monitoring System)",
+      "description": "IoT solution to monitor lavatory occupancy, implemented as part of undergraduate IoT projects.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=7",
+      "technologies": ["C++", "IoT"],
+      "githubUrl": "https://github.com/lakizuru/Lavatomate",
       "date": "2022",
       "featured": false
     },
     {
-      "title": "Microservices Architecture Migration",
-      "description": "Led the migration from monolithic to microservices architecture, implementing containerization and orchestration strategies for improved scalability.",
-      "image": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "technologies": ["Docker", "Kubernetes", "Node.js", "MongoDB", "NGINX"],
-      "date": "2023",
-      "featured": true
+      "title": "AMeasure (Air Quality Measurement IoT Solution)",
+      "description": "IoT solution for measuring air quality using embedded systems.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=8",
+      "technologies": ["C++", "IoT"],
+      "githubUrl": "https://github.com/lakizuru/AMeasure",
+      "date": "2022",
+      "featured": false
     },
     {
-      "title": "Network Security Assessment Tool",
-      "description": "Developed automated network security assessment tools for vulnerability scanning and compliance checking in enterprise environments.",
-      "image": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "technologies": ["Python", "Nmap", "Linux", "Bash", "SQL"],
-      "githubUrl": "https://github.com/lakizuru",
+      "title": "FileUploadAPI",
+      "description": "A simple RESTful file upload API built using Flask (Python).",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=9",
+      "technologies": ["Python", "Flask", "RESTful API"],
+      "githubUrl": "https://github.com/lakizuru/FileUploadAPI",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "file-server",
+      "description": "A basic file server implemented in C with socket programming.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=10",
+      "technologies": ["C", "Socket Programming"],
+      "githubUrl": "https://github.com/lakizuru/file-server",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "file-client",
+      "description": "Companion client application to the file-server for file transfer operations, also implemented in C.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=11",
+      "technologies": ["C", "Socket Programming"],
+      "githubUrl": "https://github.com/lakizuru/file-client",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "Turtlebot3-Maze-Solver",
+      "description": "Python3 code for solving mazes using Turtlebot 3 Burger robot.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=12",
+      "technologies": ["Python", "Robot Operating System (ROS)"],
+      "githubUrl": "https://github.com/lakizuru/Turtlebot3-Maze-Solver",
       "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "Pi-Thermo",
+      "description": "Digital thermometer built using Raspberry Pi 4B.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=13",
+      "technologies": ["Python", "Raspberry Pi"],
+      "githubUrl": "https://github.com/lakizuru/Pi-Thermo",
+      "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "WSL-Switch",
+      "description": "PowerShell script to toggle PC configurations for running Windows Subsystem for Linux (WSL).",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=14",
+      "technologies": ["PowerShell"],
+      "githubUrl": "https://github.com/lakizuru/WSL-Switch",
+      "date": "2023",
       "featured": false
     }
   ]

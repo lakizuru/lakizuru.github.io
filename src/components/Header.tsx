@@ -33,7 +33,7 @@ export function Header({ activeSection }: HeaderProps) {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            lakisuru.me
+            Lakisuru Semasinghe
           </div>
 
           {/* Desktop Navigation */}
