@@ -1,0 +1,130 @@
+{
+  "projects": [
+    {
+      "title": "FarmMart",
+      "description": "An Android (React Native) application enabling users to publish free advertisements for agricultural products or services, with multi-language support (Sinhala, Tamil, English) and Firebase backend.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=1",
+      "technologies": ["React Native", "JavaScript", "Firebase (Firestore)", "Expo"],
+      "githubUrl": "https://github.com/lakizuru/FarmMart",
+      "date": "2021",
+      "featured": true
+    },
+    {
+      "title": "ESProject (Burglar Alarm System)",
+      "description": "Embedded systems project for a basic Burglar Alarm System as part of an undergraduate module.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=2",
+      "technologies": ["C", "Arduino"],
+      "githubUrl": "https://github.com/lakizuru/ESProject",
+      "date": "2021",
+      "featured": true
+    },
+    {
+      "title": "HostelManagementInfoSys",
+      "description": "Desktop application for hostel management, developed during the second academic year of undergraduate studies.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=3",
+      "technologies": ["Java"],
+      "githubUrl": "https://github.com/lakizuru/HostelManagementInfoSys",
+      "date": "2022",
+      "featured": true
+    },
+    {
+      "title": "SLIITInternshipFinder",
+      "description": "A command-line automation tool that scrapes and lists internship opportunities from SLIIT CourseWeb Career Guidance Unit using Selenium and BeautifulSoup.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=4",
+      "technologies": ["Python", "Selenium", "BeautifulSoup4"],
+      "githubUrl": "https://github.com/lakizuru/SLIITInternshipFinder",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "pdf-overlay",
+      "description": "Python script to remove white backgrounds from PDF pages and overlay them onto another PDF, optimizing output size while retaining image quality.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=5",
+      "technologies": ["Python", "PDF processing"],
+      "githubUrl": "https://github.com/lakizuru/pdf-overlay",
+      "date": "2024",
+      "featured": false
+    },
+    {
+      "title": "lakizuru.github.io",
+      "description": "Personal portfolio website showcasing skills, projects, and profile details.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=6",
+      "technologies": ["TypeScript", "Web"],
+      "githubUrl": "https://github.com/lakizuru/lakizuru.github.io",
+      "date": "2025",
+      "featured": false
+    },
+    {
+      "title": "Lavatomate (Lavatory Occupancy Monitoring System)",
+      "description": "IoT solution to monitor lavatory occupancy, implemented as part of undergraduate IoT projects.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=7",
+      "technologies": ["C++", "IoT"],
+      "githubUrl": "https://github.com/lakizuru/Lavatomate",
+      "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "AMeasure (Air Quality Measurement IoT Solution)",
+      "description": "IoT solution for measuring air quality using embedded systems.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=8",
+      "technologies": ["C++", "IoT"],
+      "githubUrl": "https://github.com/lakizuru/AMeasure",
+      "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "FileUploadAPI",
+      "description": "A simple RESTful file upload API built using Flask (Python).",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=9",
+      "technologies": ["Python", "Flask", "RESTful API"],
+      "githubUrl": "https://github.com/lakizuru/FileUploadAPI",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "file-server",
+      "description": "A basic file server implemented in C with socket programming.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=10",
+      "technologies": ["C", "Socket Programming"],
+      "githubUrl": "https://github.com/lakizuru/file-server",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "file-client",
+      "description": "Companion client application to the file-server for file transfer operations, also implemented in C.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=11",
+      "technologies": ["C", "Socket Programming"],
+      "githubUrl": "https://github.com/lakizuru/file-client",
+      "date": "2021",
+      "featured": false
+    },
+    {
+      "title": "Turtlebot3-Maze-Solver",
+      "description": "Python3 code for solving mazes using Turtlebot 3 Burger robot.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=12",
+      "technologies": ["Python", "Robot Operating System (ROS)"],
+      "githubUrl": "https://github.com/lakizuru/Turtlebot3-Maze-Solver",
+      "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "Pi-Thermo",
+      "description": "Digital thermometer built using Raspberry Pi 4B.",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=13",
+      "technologies": ["Python", "Raspberry Pi"],
+      "githubUrl": "https://github.com/lakizuru/Pi-Thermo",
+      "date": "2022",
+      "featured": false
+    },
+    {
+      "title": "WSL-Switch",
+      "description": "PowerShell script to toggle PC configurations for running Windows Subsystem for Linux (WSL).",
+      "image": "https://picsum.photos/400/300?blur=2&grayscale&random=14",
+      "technologies": ["PowerShell"],
+      "githubUrl": "https://github.com/lakizuru/WSL-Switch",
+      "date": "2023",
+      "featured": false
+    }
+  ]
+}
