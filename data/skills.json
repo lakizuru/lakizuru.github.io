@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "name": "DevOps & Cloud",
+      "skills": [
+        { "name": "AWS", "icon": "☁️", "category": "cloud" },
+        { "name": "Azure", "icon": "🌐", "category": "cloud" },
+        { "name": "Docker", "icon": "🐳", "category": "containerization" },
+        { "name": "Jenkins", "icon": "⚙️", "category": "cicd" },
+        { "name": "Terraform", "icon": "🏗️", "category": "iac" },
+        { "name": "Ansible", "icon": "🔧", "category": "automation" }
+      ]
+    },
+    {
+      "name": "Operating Systems & Tools",
+      "skills": [
+        { "name": "Linux", "icon": "🐧", "category": "os" },
+        { "name": "Git", "icon": "📝", "category": "vcs" },
+        { "name": "GitLab", "icon": "🦊", "category": "platform" },
+        { "name": "Postman", "icon": "📮", "category": "testing" }
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "skills": [
+        { "name": "Python", "icon": "🐍", "category": "backend" },
+        { "name": "JavaScript", "icon": "💛", "category": "fullstack" },
+        { "name": "C", "icon": "🔤", "category": "systems" },
+        { "name": "C++", "icon": "⚡", "category": "systems" },
+        { "name": "HTML", "icon": "🌐", "category": "frontend" },
+        { "name": "SQL", "icon": "🗄️", "category": "database" }
+      ]
+    },
+    {
+      "name": "Specializations",
+      "skills": [
+        { "name": "IoT", "icon": "📡", "category": "embedded" },
+        { "name": "Networking", "icon": "🌐", "category": "infrastructure" },
+        { "name": "MERN Stack", "icon": "⚛️", "category": "fullstack" }
+      ]
+    }
+  ]
+}

@@ -26,6 +26,7 @@ export function Hero() {
             </div>
 
             {/* Right Column - Text and Buttons (2/3 width) */}
+            
             <div className="lg:col-span-2 text-center lg:text-left flex flex-col justify-center lg:pl-8">
               {/* Main Content */}
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6">
