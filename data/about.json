@@ -1,0 +1,26 @@
+{
+  "title": "Tech-enthusiast DevOps Engineer from Kurunegala, Sri Lanka",
+  "description": "Born in 1999, I enrolled at Maliyadeva College in 2005 for my primary and secondary education. After successfully completing the GCE A/L exam in 2018, I joined SLIIT to pursue higher education in IT. During my time at SLIIT, I specialized in Computer Systems and Network Engineering and graduated with the Merit Award for my achievements in this field. I also had the privilege of serving as the treasurer at the SLIIT FOSS Community and as a Microsoft Learn Student Ambassador. Presently, I am employed as a DevOps Engineer at iTelaSoft Pvt Ltd, where I have gained valuable industrial experience over the course of two years.",
+  "details": {
+    "location": "Kurunegala, Sri Lanka",
+    "age": 25,
+    "experience": "In DevOps and Cloud since 2022",
+    "education": "BSc. (Hons) in IT specializing in Computer Systems and Network Engineering"
+  },
+  "highlights": [
+    "Specialized in DevOps, Linux Systems, Cloud, IoT, and Networking",
+    "Graduated with 1st Class Honors and Merit Award from SLIIT",
+    "Former Treasurer at SLIIT FOSS Community",
+    "Former Microsoft Learn Student Ambassador (Beta)",
+    "Gold Certificate winner - Cisco NetAcad Riders 2022 (Top 5% APJC region)",
+    "Multiple award winner in competitive programming competitions",
+    "Active contributor to tech community through blog posts and videos",
+    "3+ years of professional experience in DevOps and Cloud technologies"
+  ],
+  "stats": {
+    "experience": 3,
+    "certifications": 3,
+    "awards": 9,
+    "communities": 3
+  }
+}
